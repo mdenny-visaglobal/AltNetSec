@@ -1,0 +1,19 @@
+{
+    "authSettings": {
+            "authority": "https://localhost:44304/core",
+            
+            "client_id": "js",
+            
+            "redirect_uri": "http://localhost:9000/#/callback?",
+            "silent_renew": true,
+            
+            "silent_redirect_uri": "http://localhost:9000/silent-renew.html",
+            
+            "post_logout_redirect_uri": "http://localhost:9000",
+
+            "response_type": "id_token token",
+            
+            "scope": "openid profile email api",
+            "filter_protocol_claims": true
+        }
+}
