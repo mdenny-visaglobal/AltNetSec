@@ -19,6 +19,15 @@ The app is based on the skeleton Aurelia application - check out http://aurelia.
 
 Any questions you can ping me on Twitter @habaneroofdoom 
 
+Here is a list of the links from my presentation:
+- IdentityServer: http://identityserver.io
+- JWT: https://jwt.io/
+- OpenID Connect: https://openid.net/connect/
+- Aurelia http://aurelia.io/
+- Book: Pro ASP.NET Web API Security (https://www.apress.com/9781430257820)
+- OWASP: https://www.owasp.org
+- SSL Tester: https://www.ssllabs.com/ssltest/
+
 Thanks!
 
 Marcus
